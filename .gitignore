@@ -1,0 +1,25 @@
+# Compiled output
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Archived files
+_archive/
+
+# LaTeX auxiliary files
+*.acn
+*.glo
+*.ist
+*.lof
+*.lot
+*.bbl
+*.blg
+*.gls
+*.glg
+*.xdy
+*.run.xml
